@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+    text-align: center;
+}
+
+h1{
+    color: brown;
+    font-family: verdana;
+    font-size: 20px;
+   text-align: center;
+}
+p{
+    font-size: 14px;
+}
